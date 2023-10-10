@@ -3,7 +3,7 @@ channels:
   - ibh
 dependencies:
   - python=3.10
-  - modelflow=2.08
+  - modelflow=2.09
   # ib  
   - pip
   - pip:
