@@ -1,0 +1,5 @@
+#!/bin/bash 
+#jupyter trust "Asia/Carbon pricing simulation tool single country.ipynb"
+jupyter nbextension enable hide_input_all/main
+jupyter nbextension enable splitcell/splitcell
+exec "$@"
