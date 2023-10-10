@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - modelflow=2.07
-  # ib
+  # ib  
   - pip
   - pip:
     - dash_interactive_graphviz
