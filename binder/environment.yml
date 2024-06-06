@@ -1,9 +1,10 @@
 name: base
 channels:
+  - conda-forge
   - ibh
 dependencies:
   - python=3.10
-  - modelflow
+  - modelflow=2.33
   - notebook=6
   - pandas=1.5
   # ib  
