@@ -3,10 +3,9 @@ channels:
   - conda-forge
   - ibh
 dependencies:
-  - python=3.10
-  - modelflow=2.33
+  - python=3.12
+  - modelflow=2.49
   - notebook=6
-  - pandas=1.5
   # ib  
   - pip
   - pip:
