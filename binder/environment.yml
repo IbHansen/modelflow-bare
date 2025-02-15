@@ -5,7 +5,7 @@ channels:
 dependencies:
   - python=3.12
   - modelflow=2.49
-  - notebook=6
+  #- notebook=6
   # ib  
   - pip
   - pip:
